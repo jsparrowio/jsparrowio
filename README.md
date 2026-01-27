@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jsparrowio (Josh)
-- 👀 I’m interested in a wide range of development, administration, and other application based technologies+
+- 👀 I’m interested in a wide range of development, administration, and other application based technologies
 - 🌱 I’m currently learning systems admin, networking, and containerization 
 - 📫 How to reach me: jsparrowio@outlook.com
 - 😄 Pronouns: he/him/his
