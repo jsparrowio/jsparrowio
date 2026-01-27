@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @jsparrowio (Josh)
-- 👀 I’m interested in full-stack programming
-- 🌱 I’m currently learning a full stack web development bootcamp
-
+- 👀 I’m interested in a wide range of development, administration, and other application based technologies+
+- 🌱 I’m currently learning systems admin, networking, and containerization 
 - 📫 How to reach me: jsparrowio@outlook.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: After years of consideration, I am ready to fully commit to the coding industry!
+<!-- ⚡ Fun fact: After years of consideration, I am ready to fully commit to the coding industry! -->
 <!-- 💞️ I’m looking to collaborate on nothing yet! -->
 <!---
 jsparrowio/jsparrowio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
